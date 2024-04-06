@@ -8,7 +8,7 @@ My interests are Full Stack Development and Cloud/DevOps Engineering. I prioriti
 
 * 🌍  I'm based in Houston, TX
 * ✉️  You can contact me at [chiemelaumeh1@gmail.com](mailto:chiemelaumeh1@gmail.com)
-* 🧠  I'm learning C++
+* 🧠  I'm learning AWS
 * 🤝  I'm open to collaborating on Web development, Cloud Architecture and DevOps
 
 ### Skills
