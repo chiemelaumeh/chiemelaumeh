@@ -1,4 +1,4 @@
-Hello, [](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDhsMG0ycHNrYnpva3d1ODQwZWRlMWc3ZGQ0aWxqaDB0M20xeTd6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3q2GDh3wQqVWSiGY/giphy.webp)Welcome to my profile
+Hello, welcome to my profile [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =====================================================================================================================================
 
 Software Engineer
@@ -9,7 +9,7 @@ I’m Chiemela, a Software Engineer with a passion for building scalable, effici
 * 🌍  I'm based in Houston, TX
 * ✉️   Contact me at [chiemelaumeh1@gmail.com](mailto:chiemelaumeh1@gmail.com)
 * 🧠  I am always learning new skills
-* 🤝  Open to collaborating on Web development and Cloud Architecture Projects
+* 🤝  Open to collaborate on Web development and Cloud Architecture Projects
 
 ### Skills
 
