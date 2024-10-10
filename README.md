@@ -1,15 +1,15 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chiemela Umeh
+Hello, [](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDhsMG0ycHNrYnpva3d1ODQwZWRlMWc3ZGQ0aWxqaDB0M20xeTd6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3q2GDh3wQqVWSiGY/giphy.webp)Welcome to my profile
 =====================================================================================================================================
 
-Full Stack Developer | DevOps Engineer
+Software Engineer
 --------------------------------------
 
-My interests are Full Stack Development and Cloud/DevOps Engineering. I prioritize growth and teamwork so that in the long run, I will give back multifold to the vibrant world of Technology by providing guidance to those who come after me. Currently, I am ready to contribute to team success through attention to detail, excellent organizational skills, and a can-do attitude
+I’m Chiemela, a Software Engineer with a passion for building scalable, efficient solutions. My expertise spans a variety of practices, including CI/CD, DevOps, Linux systems Administration, automation, and cloud infrastructure. I enjoy solving complex problems and collaborating with teams to deliver high-quality, reliable software.
 
 * 🌍  I'm based in Houston, TX
-* ✉️  You can contact me at [chiemelaumeh1@gmail.com](mailto:chiemelaumeh1@gmail.com)
-* 🧠  I'm learning AWS
-* 🤝  I'm open to collaborating on Web development, Cloud Architecture and DevOps
+* ✉️   Contact me at [chiemelaumeh1@gmail.com](mailto:chiemelaumeh1@gmail.com)
+* 🧠  I am always learning new skills
+* 🤝  Open to collaborating on Web development and Cloud Architecture Projects
 
 ### Skills
 
