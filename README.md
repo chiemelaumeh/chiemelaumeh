@@ -4,7 +4,7 @@ Hello, welcome to my profile [](https://user-images.githubusercontent.com/183505
 Software Engineer
 --------------------------------------
 
-I’m Chiemela, a Software Engineer with a passion for building scalable, efficient solutions. My expertise spans a variety of practices, including CI/CD, DevOps, Linux systems Administration, automation, and cloud infrastructure. I enjoy solving complex problems and collaborating with teams to deliver high-quality, reliable software.
+I’m Chiemela, a software engineer with a passion for building scalable and efficient solutions. My expertise spans a variety of practices, including CI/CD, DevOps, Linux systems administration, automation, and cloud infrastructure. I enjoy solving complex problems and collaborating with teams to deliver high-quality, reliable software.
 
 * 🌍  I'm based in Houston, TX
 * ✉️   Contact me at [chiemelaumeh1@gmail.com](mailto:chiemelaumeh1@gmail.com)
